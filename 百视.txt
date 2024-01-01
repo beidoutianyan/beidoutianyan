@@ -1,7 +1,17 @@
-六首新歌,https://play.djcscs.com//uploadfiles/video/2023-12/06/DjSoCF6ZZFcW03/index.m3u8
-我不要桃花,https://play.djcscs.com//uploadfiles/video/2023-11/25/DjQQwIo02hO86x/index.m3u8
-我不要桃花1,https：//play.djcscs.com//uploadfiles/video/2023-11/25/DjQQwIo02hO86x/index.m3u8
-我不要桃花2,https：//play.djcscs.com//uploadfiles/video/2023-12/06/DjSoCF6ZZFcW03/index.m3u8
-六首新歌,https://play.djcscs.com//uploadfiles/video/2023-11/25/DjQQwIo02hO86x/index.m3u8
-为爱丢了魂,https://play.djcscs.com//uploadfiles/video/2023-11/12/DjSs6k2QDZKoyK/index.m3u8
-藕断丝涟,https://play.djcscs.com//uploadfiles/video/2023-10/09/Djy84aJfQzh1C2/index.m3u8
+六首新歌，https://play.djcscs.com//uploadfiles/video/2023-12/06/DjSoCF6ZZFcW03/index.m3u8
+我不要桃花，https://play.djcscs.com//uploadfiles/video/2023-11/25/DjQQwIo02hO86x/index.m3u8
+我不要桃花1，https：//play.djcscs.com//uploadfiles/video/2023-11/25/DjQQwIo02hO86x/index.m3u8
+我不要桃花2，https：//play.djcscs.com//uploadfiles/video/2023-12/06/DjSoCF6ZZFcW03/index.m3u8
+六首新歌，https://play.djcscs.com//uploadfiles/video/2023-11/25/DjQQwIo02hO86x/index.m3u8
+为爱丢了魂，https://play.djcscs.com//uploadfiles/video/2023-11/12/DjSs6k2QDZKoyK/index.m3u8
+藕断丝涟，https://play.djcscs.com//uploadfiles/video/2023-10/09/Djy84aJfQzh1C2/index.m3u8
+SSIS-129 河北彩花，https://t12.cdn2020.com:12337/video/m3u8/2021/10/11/144262e9/index.m3u8
+SSIS-158河北彩花，https://t10.cdn2020.com:12335/video/m3u8/2021/08/21/871ae2a0/index.m3u8
+SSIS-194河北彩花，https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/667f6ab4/index.m3u8
+SSNI-216河北彩花，http://videocdn.dlyilian.com:8091/20181231/SKLN0TRY216/index.m3u8
+SSIS-252河北彩花，https://play92332.com/20211205/gWRZcJHT/1703kb/hls/index.m3u8
+SSNI-266河北彩花，http://videocdn.dlyilian.com:8091/20190101/SQKI4GRL266/index.m3u8
+SSIS-280河北彩花，https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/71518e15/index.m3u8
+SSIS-308河北彩花，https://t16.cdn2020.com:12340/video/m3u8/2022/02/16/4ca0e556/index.m3u8
+SSIS-361河北彩花，https://t17.cdn2020.com:12341/video/m3u8/2022/03/29/5e6c7ad8/index.m3u8
+
